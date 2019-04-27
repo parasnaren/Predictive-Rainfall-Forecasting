@@ -14,10 +14,10 @@ SARIMAX helps model time series data by adding the following hyperparameters:
 Time series analysis on rainfall data over the past 50 years were considered to accurately predict the rainfall pattern for any given year.
 
 
-## SARIMAX Model performance**
-**RMSE**: 
+## SARIMAX Model performance
+**RMSE: 90.15**
 
 
 
 ## Prophet Model performance
-**RMSE**: 
+**RMSE: 81.32**
