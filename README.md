@@ -22,4 +22,5 @@ Time series analysis on rainfall data over the past 50 years were considered to 
 
 ## Prophet Model performance
 **RMSE: 81.32**
-![alt text]https://raw.githubusercontent.com/parasnaren/predictive-rainfall-forecasting/edit/master/prophet.png
+
+![prophet](https://user-images.githubusercontent.com/29833297/56853423-41da5b80-6945-11e9-877e-3a31452d33ad.png)
