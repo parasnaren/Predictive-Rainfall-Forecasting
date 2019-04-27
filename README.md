@@ -16,7 +16,8 @@ Time series analysis on rainfall data over the past 50 years were considered to 
 
 ## SARIMAX Model performance
 **RMSE: 90.15**
-![alt text]https://raw.githubusercontent.com/parasnaren/predictive-rainfall-forecasting/edit/master/sarimax.png
+
+![sarimax](https://user-images.githubusercontent.com/29833297/56853418-1ce5e880-6945-11e9-9e9f-fdcd657226b3.png)
 
 
 ## Prophet Model performance
